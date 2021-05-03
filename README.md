@@ -75,3 +75,7 @@ $ npm run dev
 ## License
 MIT LICENSE
 
+## Contact
+
+이용하시다가 궁금한 점이 있으시면 이쪽으로 연락 부탁드립니다.  
+최한나 - hnc24@naver.com
