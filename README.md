@@ -5,7 +5,7 @@
 ## How to install
 1. clone : 로컬로 저장소를 클론합니다.
 ```
-$ git clone https://github.com/Juhyung98/web_project.git
+$ git clone https://github.com/hannachoi24/Web_TermProject.git
 ```
 2. npm install : 루트 디렉토리에서 아래의 명령어로 모듈들을 설치합니다.
 ```
