@@ -72,7 +72,8 @@ $ npm run dev
 - Aws EC2
 - Kakao Map Api
 
-![화면 캡처 2022-01-03 155600](https://user-images.githubusercontent.com/66726731/147906268-4031df63-857e-4e8f-b800-c3613247e9e4.png)
+![구조](https://user-images.githubusercontent.com/66726731/147907017-00881df4-8cc8-4ddb-848e-3e4d832366f5.png)
+
 
 ## License
 MIT LICENSE
