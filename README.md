@@ -1,6 +1,6 @@
 # 고민사거리
 고민사거리는 대학생들의 식사고민을 덜어주기 위해 제작된 웹application입니다. 숭실대 근처(일명 고민사거리, 사거리에서 무엇을 먹을지 고민이 된다는 의미)의 식당들을 종류별로 카테고리화 했습니다. 랜딩페이지에서 랜덤추천 및 고민사거리맵을 이용할 수 있고, 메뉴페이지에서 메뉴별 식당들을 조회할 수 있습니다. pick기능으로 원하는 식당을 mypick에 담아 둘 수 있습니다. 
-
+![랜](https://user-images.githubusercontent.com/66726731/147906241-c1fee2a6-3655-48db-b64c-083b90b6c2d5.png)
 
 ## How to install
 1. clone : 로컬로 저장소를 클론합니다.
@@ -71,6 +71,8 @@ $ npm run dev
 - Mysql
 - Aws EC2
 - Kakao Map Api
+
+![화면 캡처 2022-01-03 155600](https://user-images.githubusercontent.com/66726731/147906268-4031df63-857e-4e8f-b800-c3613247e9e4.png)
 
 ## License
 MIT LICENSE
