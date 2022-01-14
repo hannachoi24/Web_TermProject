@@ -1,10 +1,11 @@
 # 고민사거리
 고민사거리는 대학생들의 식사고민을 덜어주기 위해 제작된 웹application입니다. 숭실대 근처(일명 고민사거리, 사거리에서 무엇을 먹을지 고민이 된다는 의미)의 식당들을 종류별로 카테고리화 했습니다. 랜딩페이지에서 랜덤추천 및 고민사거리맵을 이용할 수 있고, 메뉴페이지에서 메뉴별 식당들을 조회할 수 있습니다. pick기능으로 원하는 식당을 mypick에 담아 둘 수 있습니다. 
+
 ![랜](https://user-images.githubusercontent.com/66726731/147906241-c1fee2a6-3655-48db-b64c-083b90b6c2d5.png)
-![추천__](https://user-images.githubusercontent.com/66726731/149474306-5bcefc2f-b250-494a-9057-e282ee1babff.png)
-![pick_](https://user-images.githubusercontent.com/66726731/149474319-154fe376-6d32-4d0f-9f8f-5549b23d31e5.png)
-![담긴내용_](https://user-images.githubusercontent.com/66726731/149474332-86829b6a-2b73-4d8a-8379-c9a94c95cb9e.png)
-![메뉴_](https://user-images.githubusercontent.com/66726731/149474339-785690d3-9e46-4b7f-86a9-5cf053f8b3bb.png)
+![추천](https://user-images.githubusercontent.com/66726731/149474504-789a6d2e-f653-46a6-9e1a-e9fd45e60f26.png)
+![pick](https://user-images.githubusercontent.com/66726731/149474508-e3567f4c-06ef-4ffc-b584-28b44ffc9623.png)
+![담긴내용](https://user-images.githubusercontent.com/66726731/149474520-27c1dcc8-d73e-4da2-b6cc-a0dafdc0f597.png)
+![메뉴](https://user-images.githubusercontent.com/66726731/149474530-2fe7e089-a926-44f7-b3d5-ec4ab02722cd.png)
 
 
 ## How to install
